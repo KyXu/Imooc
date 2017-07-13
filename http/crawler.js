@@ -76,4 +76,4 @@ function getPageAsync(url) {
 
   })
 }
-Promise.all()
+Promise.all([])
